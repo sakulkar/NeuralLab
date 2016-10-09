@@ -1,1 +1,3 @@
-# kuch_bhi
+# Neural Lab
+
+Experimenting with Neural Networks
